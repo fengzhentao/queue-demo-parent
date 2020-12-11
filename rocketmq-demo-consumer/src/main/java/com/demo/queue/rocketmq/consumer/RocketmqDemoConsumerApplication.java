@@ -1,0 +1,13 @@
+package com.demo.queue.rocketmq.consumer;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RocketmqDemoConsumerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(RocketmqDemoConsumerApplication.class, args);
+    }
+
+}

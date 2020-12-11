@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7c03c95-a26d-45b9-916c-5016f5536ca5" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-demo-producer/target/" />
+    <ignored path="$PROJECT_DIR$/rabbitmq-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/rocketmq-demo-producer/target/" />
+    <ignored path="$PROJECT_DIR$/rocketmq-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-demo-producer/target/" />
+    <ignored path="$PROJECT_DIR$/activemq-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/kafka-demo-producer/target/" />
+    <ignored path="$PROJECT_DIR$/kafka-demo-consumer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RocketmqDemoConsumerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/RocketmqDemoConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopicListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/TopicListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaDemoConsumerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-demo-consumer/src/main/java/com/demo/queue/kafka/consumer/KafkaDemoConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#351#352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaDemoProducerApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/KafkaDemoProducerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RocketMQController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/src/main/java/com/demo/queue/rocketmq/producer/controller/RocketMQController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="175">
+                <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jms</find>
+      <find>KafkaListener</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/gitHub/SpringBoot-Learning" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitHub/SpringBoot-Learning/SpringBoot-Zookeeper-Distributed-Lock" value="PREVIEW" />
+        <entry key="$USER_HOME$/gitRepository/projectoa" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/config/RabbitmqConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/config/TopicRabbitConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/config/DirectRabbitmqConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/DirectReceiverTwo.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/DirectReceiver.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/TopicManReceiver.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/TopicTotalReceiver.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/config/FanoutRabbitConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/FanoutReceiverA.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/FanoutReceiverB.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/FanoutReceiverC.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/config/RabbitConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-producer/src/main/java/com/demo/queue/rabbitmq/producer/contorller/SendMessageController.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/config/MyAckReceiver.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/config/MessageListenerConfig.java" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo-consumer/src/main/java/com/demo/queue/rabbitmq/consumer/receiver/MyAckReceiver.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/receiver/TopicReceiver.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/activemq-demo-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/activemq-demo-producer/src/main/java/com/demo/queue/activemq/producer/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/TopicListener.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/TopicListener2.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-producer/src/main/java/com/demo/queue/activemq/producer/config/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener2.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/config/ActiveMQConfig.java" />
+        <option value="$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener3.java" />
+        <option value="$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/config/KafkaConfig.java" />
+        <option value="$PROJECT_DIR$/kafka-demo-consumer/src/main/java/com/demo/queue/kafka/consumer/receiver/TopicReceiver.java" />
+        <option value="$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/controller/KafkaProducer.java" />
+        <option value="$PROJECT_DIR$/kafka-demo-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/kafka-demo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/kafka-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-producer/src/main/java/com/demo/queue/rocketmq/producer/controller/RocketMQController.java" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/StringListener.java" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/RocketMQListener.java" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/RocketMqListener.java" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/TopicListener.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/rocketmq-demo-producer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/myMaven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$USER_HOME$/myMaven/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rocketmq-demo-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="rocketmq-demo-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="queue-demo-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="queue-demo-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka-demo-producer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="KafkaAnnotationDrivenConfiguration&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.kafka.KafkaAnnotationDrivenConfiguration&#10;StringSerializer&#9;PSI&#9;JAVA://org.apache.kafka.common.serialization.StringSerializer&#10;SimpleMessageListenerContainer&#9;PSI&#9;JAVA://org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5045977" />
+    <property name="settings.editor.selected.configurable" value="com.alibabacloud.intellij.config.AccountConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demo.queue.activemq.consumer.listener" />
+      <recent name="com.demo.queue.activemq.consumer.config" />
+      <recent name="com.demo.queue.rabbitmq.consumer.receiver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RocketmqDemoConsumerApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ActivemqDemoConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.queue.activemq.consumer.ActivemqDemoConsumerApplication" />
+      <module name="activemq-demo-consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.queue.activemq.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ActivemqDemoProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.queue.activemq.producer.ActivemqDemoProducerApplication" />
+      <module name="activemq-demo-producer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.queue.activemq.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="KafkaDemoConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.queue.kafka.consumer.KafkaDemoConsumerApplication" />
+      <module name="kafka-demo-consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.queue.kafka.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="KafkaDemoProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.queue.kafka.producer.KafkaDemoProducerApplication" />
+      <module name="kafka-demo-producer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.queue.kafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RabbitmqDemoConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demo.queue.rabbitmq.consumer.RabbitmqDemoConsumerApplication" />
+      <module name="rabbitmq-demo-consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.queue.rabbitmq.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="ActivemqDemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activemq-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.activemq.consumer.ActivemqDemoConsumerApplication" />
+    </configuration>
+    <configuration name="ActivemqDemoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activemq-demo-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.activemq.producer.ActivemqDemoProducerApplication" />
+    </configuration>
+    <configuration name="KafkaDemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.kafka.consumer.KafkaDemoConsumerApplication" />
+    </configuration>
+    <configuration name="KafkaDemoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kafka-demo-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.kafka.producer.KafkaDemoProducerApplication" />
+    </configuration>
+    <configuration name="RabbitmqDemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.rabbitmq.consumer.RabbitmqDemoConsumerApplication" />
+    </configuration>
+    <configuration name="RabbitmqDemoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq-demo-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.rabbitmq.producer.RabbitmqDemoProducerApplication" />
+    </configuration>
+    <configuration name="RocketmqDemoConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-demo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.rocketmq.consumer.RocketmqDemoConsumerApplication" />
+    </configuration>
+    <configuration name="RocketmqDemoProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rocketmq-demo-producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.queue.rocketmq.producer.RocketmqDemoProducerApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.RabbitmqDemoProducerApplication" />
+      <item itemvalue="Spring Boot.KafkaDemoConsumerApplication" />
+      <item itemvalue="Spring Boot.KafkaDemoProducerApplication" />
+      <item itemvalue="Spring Boot.RocketmqDemoProducerApplication" />
+      <item itemvalue="Spring Boot.RocketmqDemoConsumerApplication" />
+      <item itemvalue="Spring Boot.ActivemqDemoConsumerApplication" />
+      <item itemvalue="Spring Boot.ActivemqDemoProducerApplication" />
+      <item itemvalue="Spring Boot.RabbitmqDemoConsumerApplication" />
+      <item itemvalue="Application.RabbitmqDemoConsumerApplication" />
+      <item itemvalue="Application.ActivemqDemoProducerApplication" />
+      <item itemvalue="Application.ActivemqDemoConsumerApplication" />
+      <item itemvalue="Application.KafkaDemoProducerApplication" />
+      <item itemvalue="Application.KafkaDemoConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KafkaDemoConsumerApplication" />
+        <item itemvalue="Application.KafkaDemoProducerApplication" />
+        <item itemvalue="Application.ActivemqDemoConsumerApplication" />
+        <item itemvalue="Application.ActivemqDemoProducerApplication" />
+        <item itemvalue="Application.RabbitmqDemoConsumerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7c03c95-a26d-45b9-916c-5016f5536ca5" name="Default" comment="" />
+      <created>1607328474868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607328474868</updated>
+      <workItem from="1607328483387" duration="40383000" />
+      <workItem from="1607581793309" duration="6759000" />
+      <workItem from="1607670591603" duration="5102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52244000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32969698" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
+      <window_info id="Alibaba Cloud Explorer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener.java</url>
+          <line>25</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-demo-consumer/src/main/java/com/demo/queue/kafka/consumer/receiver/TopicReceiver.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.class</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class</url>
+          <line>401</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/message/FindCoordinatorRequestData.class</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/activemq/activemq-client/5.16.0/activemq-client-5.16.0.jar!/org/apache/activemq/command/Message.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2233">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/activemq/activemq-client/5.16.0/activemq-client-5.16.0.jar!/org/apache/activemq/command/ActiveMQMessage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/jakarta/jms/jakarta.jms-api/2.0.3/jakarta.jms-api-2.0.3.jar!/javax/jms/Message.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/config/ActiveMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="55" column="67" selection-start-line="55" selection-start-column="67" selection-end-line="55" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activemq-demo-consumer/src/main/java/com/demo/queue/activemq/consumer/listener/QueueListener3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/core/DefaultKafkaProducerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="79" column="11" selection-start-line="79" selection-start-column="11" selection-end-line="79" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/core/KafkaTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/serialization/StringSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/Node.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/listener/AbstractMessageListenerContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/listener/ConcurrentMessageListenerContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/GroupRebalanceConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/internals/ConsumerCoordinator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="369" column="31" selection-start-line="369" selection-start-column="31" selection-end-line="369" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/requests/FindCoordinatorRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/requests/AbstractRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/com/fasterxml/jackson/core/jackson-databind/2.11.3/jackson-databind-2.11.3.jar!/com/fasterxml/jackson/databind/JsonNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/ConsumerRecord.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/message/FindCoordinatorRequestData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/internals/AbstractCoordinator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="410" selection-start-line="410" selection-end-line="410" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#20051#20052#0" expanded="true" />
+            <element signature="e#20111#20112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/utils/Timer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/common/metrics/Sensor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/internals/KafkaConsumerMetrics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/kafka/kafka-clients/2.6.0/kafka-clients-2.6.0.jar!/org/apache/kafka/clients/consumer/KafkaConsumer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="400" column="87" selection-start-line="400" selection-start-column="87" selection-end-line="400" selection-end-column="87" />
+          <folding>
+            <element signature="e#20441#20442#0" expanded="true" />
+            <element signature="e#20505#20506#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/listener/KafkaMessageListenerContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="909" selection-start-line="909" selection-end-line="909" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/annotation/KafkaListeners.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/kafka/spring-kafka/2.6.3/spring-kafka-2.6.3.jar!/org/springframework/kafka/annotation/KafkaListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/springframework/boot/spring-boot-autoconfigure/2.4.0/spring-boot-autoconfigure-2.4.0.jar!/org/springframework/boot/autoconfigure/kafka/KafkaAnnotationDrivenConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/config/KafkaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="2" selection-start-line="51" selection-start-column="2" selection-end-line="51" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-consumer/src/main/java/com/demo/queue/kafka/consumer/receiver/TopicReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/controller/KafkaProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-consumer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-producer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/reflect/Type.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/myMaven/apache-maven-3.3.9/repository/org/apache/rocketmq/rocketmq-spring-boot/2.1.0/rocketmq-spring-boot-2.1.0.jar!/org/apache/rocketmq/spring/core/RocketMQTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/src/main/java/com/demo/queue/rocketmq/producer/RocketmqDemoProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/RocketmqDemoConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-consumer/src/main/java/com/demo/queue/rocketmq/consumer/listener/TopicListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-consumer/src/main/java/com/demo/queue/kafka/consumer/KafkaDemoConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka-demo-producer/src/main/java/com/demo/queue/kafka/producer/KafkaDemoProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="175">
+            <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/src/main/java/com/demo/queue/rocketmq/producer/controller/RocketMQController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rocketmq-demo-producer/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="55" lean-forward="true" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (kafka-demo-consumer)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>queue-demo-parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-databind:2.11.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5045977" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

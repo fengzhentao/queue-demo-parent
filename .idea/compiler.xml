@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activemq-demo-consumer" />
+        <module name="activemq-demo-producer" />
+        <module name="kafka-demo-consumer" />
+        <module name="kafka-demo-producer" />
+        <module name="rabbitmq-demo-consumer" />
+        <module name="rabbitmq-demo-producer" />
+        <module name="rocketmq-demo-consumer" />
+        <module name="rocketmq-demo-producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq-demo-consumer" target="1.8" />
+      <module name="activemq-demo-producer" target="1.8" />
+      <module name="kafka-demo-consumer" target="1.8" />
+      <module name="kafka-demo-producer" target="1.8" />
+      <module name="queue-demo-parent" target="1.5" />
+      <module name="rabbitmq-demo-consumer" target="1.8" />
+      <module name="rabbitmq-demo-producer" target="1.8" />
+      <module name="rocketmq-demo-consumer" target="1.8" />
+      <module name="rocketmq-demo-producer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

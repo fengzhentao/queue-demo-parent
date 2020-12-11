@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq-demo-consumer/activemq-demo-consumer.iml" filepath="$PROJECT_DIR$/activemq-demo-consumer/activemq-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-demo-producer/activemq-demo-producer.iml" filepath="$PROJECT_DIR$/activemq-demo-producer/activemq-demo-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo-consumer/kafka-demo-consumer.iml" filepath="$PROJECT_DIR$/kafka-demo-consumer/kafka-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-demo-producer/kafka-demo-producer.iml" filepath="$PROJECT_DIR$/kafka-demo-producer/kafka-demo-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue-demo-parent.iml" filepath="$PROJECT_DIR$/queue-demo-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo-consumer/rabbitmq-demo-consumer.iml" filepath="$PROJECT_DIR$/rabbitmq-demo-consumer/rabbitmq-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo-producer/rabbitmq-demo-producer.iml" filepath="$PROJECT_DIR$/rabbitmq-demo-producer/rabbitmq-demo-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-demo-consumer/rocketmq-demo-consumer.iml" filepath="$PROJECT_DIR$/rocketmq-demo-consumer/rocketmq-demo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq-demo-producer/rocketmq-demo-producer.iml" filepath="$PROJECT_DIR$/rocketmq-demo-producer/rocketmq-demo-producer.iml" />
+    </modules>
+  </component>
+</project>
